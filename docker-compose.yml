@@ -79,7 +79,7 @@ services:
       org.label-schema.group: "monitoring"
  
   nuttcp_server:
-    container_name: nuttcp
+    container_name: nuttcp1
     image: moreiraal/nuttcp
     stdin_open: true
     tty: true

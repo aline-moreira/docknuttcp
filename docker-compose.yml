@@ -85,7 +85,7 @@ services:
     tty: true
 
   nuttcp_client:
-    container_name: nuttcp
+    container_name: nuttcp2
     image: moreiraal/nuttcp2
     stdin_open: true
     tty: true
